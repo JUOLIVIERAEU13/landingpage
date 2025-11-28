@@ -11,7 +11,7 @@ main{
     min-width: 320px;
 }
 header{
-    background-color: rgb(128, 26, 224);
+    background-color: rgb(95, 146, 240);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,7 +43,7 @@ header{
     grid-template-columns: 1fr 1fr;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(245, 235, 223);
+    background-color: rgb(22, 74, 151);
     padding: 20px;
 }
 .d2{
@@ -154,7 +154,7 @@ input, select{
     text-align: left;
 }
 .d9{
-    background-color: rgb(127,245,245);
+    background-color: rgb(185, 220, 248);
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -182,7 +182,7 @@ input, select{
     font-weight: bold;
 }
 footer{
-    background-color: rgb(100, 115, 185);
+    background-color: rgb(18, 47, 126);
 }
 /*celular*/
 @media screen and (max-width:678px){
@@ -314,3 +314,4 @@ footer{
         background-color: rgb(16, 15, 94);
     }
 }
+
